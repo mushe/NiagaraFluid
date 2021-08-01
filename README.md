@@ -4,12 +4,12 @@ Fluid simulation(SPH) in Unreal Engine 4 Niagara(GPU simulation stage)
 
 Demo : https://www.youtube.com/watch?v=MmzwNiPK3sk
 
-water
+・water
 
 ![GIF 2021-08-01 20-13-12](https://user-images.githubusercontent.com/26865534/127768873-fd23714c-cadf-440d-bf11-a04dd642ee33.gif)
 
 
-waterfall
+・waterfall
 
 ![GIF 2021-08-01 20-15-14](https://user-images.githubusercontent.com/26865534/127768890-b2e22a1e-9a4a-4d9f-8dce-95d7ea897f7c.gif)
 
