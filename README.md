@@ -18,7 +18,7 @@ Demo : https://www.youtube.com/watch?v=MmzwNiPK3sk
 
 ・Neighbor Grid3D
 
-## Reference
+## References
 ・Doyub Kim, "Fluid Engine Development", A K Peters/CRC Press, 2017
 
 https://www.amazon.co.jp/-/en/Doyub-Kim-ebook/dp/B01MRDA6S8
