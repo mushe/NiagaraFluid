@@ -34,3 +34,7 @@ https://github.com/monguri/UE4NiagaraSandbox
 ・Unreal Engine 4 Content Examples (Niagara Advanced map)
 
 https://docs.unrealengine.com/4.26/en-US/Resources/ContentExamples/
+
+・Screen Space Fluid Rendering for Games - Nvidia
+
+https://developer.download.nvidia.com/presentations/2010/gdc/Direct3D_Effects.pdf
