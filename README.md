@@ -2,7 +2,7 @@
 
 Fluid simulation(SPH) and water rendering in Unreal Engine 5 Niagara(GPU simulation stage)
 
-Demo : https://www.youtube.com/watch?v=MmzwNiPK3sk
+Demo : https://www.youtube.com/watch?v=EEXcR8ROdnM
 
 ![GIF 8-14-2022 4-22-10 PM](https://user-images.githubusercontent.com/26865534/184529081-7178c81c-4608-4519-ba0b-40f59fb07af4.gif)
 
