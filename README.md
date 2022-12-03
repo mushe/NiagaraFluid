@@ -8,6 +8,10 @@ Demo : https://www.youtube.com/watch?v=EEXcR8ROdnM
 
 
 ## References
+・Matthias Müller et al, "Particle-based fluid simulation for interactive applications", ACM SIGGRAPH/Eurographics symposium on Computer animation, 2003
+
+https://dl.acm.org/doi/10.5555/846276.846298
+
 ・Doyub Kim, "Fluid Engine Development", A K Peters/CRC Press, 2017
 
 https://www.amazon.co.jp/-/en/Doyub-Kim-ebook/dp/B01MRDA6S8
